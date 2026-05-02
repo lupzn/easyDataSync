@@ -5,6 +5,20 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/).
 
 ---
 
+## [v1.3.0] — License system, tier-aware UI
+
+- **Paid-license system** — Free / Pro (29 € one-time) / Business (99 € / yr per seat) / Enterprise (from 499 € / yr)
+- **30-day Pro trial** auto-starts on first launch — every Pro feature unlocked
+- **In-app license dialog** under Info → License — activate, deactivate, re-validate
+- **Tier badge** in the header (top-right) shows current state
+- **Trial-expiry banner** when ≤ 7 days remain
+- **Pro feature gates** — multiple mapping profiles, validations, CLI mode, watch-folder mode now require a paid tier
+- **Bilingual UI** for all license-related strings (EN + DE)
+
+→ [Download v1.3.0](https://github.com/lupzn/easyDataSync/releases/tag/v1.3.0) · [Buy a license](https://easydatasync.lupzn.de#pricing)
+
+---
+
 ## [v1.2.1] — One-click in-app updates
 
 - Auto-update is now fully in-app: download + install with one click
@@ -46,5 +60,6 @@ The format is loosely based on [Keep a Changelog](https://keepachangelog.com/).
 
 ---
 
+[v1.3.0]: https://github.com/lupzn/easyDataSync/releases/tag/v1.3.0
 [v1.2.1]: https://github.com/lupzn/easyDataSync/releases/tag/v1.2.1
 [v1.2.0]: https://github.com/lupzn/easyDataSync/releases/tag/v1.2.0
