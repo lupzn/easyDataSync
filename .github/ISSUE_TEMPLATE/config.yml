@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🌐 Website
+    url: https://easydatasync.lupzn.de
+    about: Product page, pricing, and full documentation
+  - name: 📧 Commercial / licensing inquiry
+    url: mailto:info@lupzn.de
+    about: Enterprise licenses, custom validations, onboarding
+  - name: ❓ FAQ
+    url: https://github.com/lupzn/easyDataSync/blob/main/docs/faq.md
+    about: Common questions before opening an issue

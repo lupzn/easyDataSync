@@ -1,0 +1,162 @@
+easyDataSync — End User License Agreement (EULA)
+Copyright (c) 2025 LUPZN. All rights reserved.
+
+This End User License Agreement ("Agreement") is a legal contract between
+you ("Licensee") and LUPZN ("Licensor") for the easyDataSync software,
+including all binaries, documentation, and accompanying materials
+(collectively, the "Software").
+
+By downloading, installing, or using the Software, you agree to be bound
+by the terms of this Agreement. If you do not agree, do not install or
+use the Software.
+
+================================================================================
+1. LICENSE GRANT
+================================================================================
+
+1.1 FREE TIER (Personal Use)
+    Licensor grants Licensee a non-exclusive, non-transferable, revocable
+    license to install and use the Software free of charge, for personal,
+    non-commercial purposes only, subject to the feature limitations of the
+    Free Tier as described at https://easydatasync.lupzn.de.
+
+1.2 PRO / BUSINESS / ENTERPRISE TIERS (Paid)
+    Use of the Software for commercial, professional, or business purposes
+    of any kind requires a valid paid license, purchased via the official
+    distribution channel. Each paid license is granted per seat (one
+    natural person or one workstation, as specified in the purchase),
+    is non-transferable, and remains in effect as described in the
+    purchase confirmation.
+
+1.3 EVALUATION / TRIAL
+    Pro features may be made available for a time-limited evaluation
+    period. After the trial expires, continued use of Pro features
+    requires a valid paid license.
+
+================================================================================
+2. RESTRICTIONS
+================================================================================
+
+Licensee shall NOT:
+
+  (a) redistribute, publish, sell, rent, lease, sublicense, or otherwise
+      transfer the Software or any portion thereof to any third party
+      without prior written consent from Licensor;
+
+  (b) reverse engineer, decompile, disassemble, or otherwise attempt to
+      derive the source code, underlying ideas, algorithms, file formats,
+      or non-public APIs of the Software, except to the extent expressly
+      permitted by mandatory applicable law (e.g., § 69e UrhG);
+
+  (c) modify, adapt, translate, or create derivative works based on the
+      Software;
+
+  (d) circumvent, disable, or otherwise interfere with any license check,
+      activation, or copy-protection mechanism of the Software;
+
+  (e) remove or alter any proprietary notices, labels, or marks on the
+      Software;
+
+  (f) use the Software in any manner that violates applicable laws or
+      regulations.
+
+================================================================================
+3. OWNERSHIP
+================================================================================
+
+The Software is licensed, not sold. Licensor retains all right, title,
+and interest in and to the Software, including all intellectual property
+rights therein. No rights are granted to Licensee other than those
+expressly set forth in this Agreement.
+
+================================================================================
+4. UPDATES
+================================================================================
+
+Licensor may, at its sole discretion, provide updates, bug fixes, or new
+versions of the Software. Paid licenses include free updates for the
+period specified at the time of purchase (typically 12 months from
+purchase date). Continued access to updates beyond this period may
+require renewal.
+
+================================================================================
+5. DATA HANDLING
+================================================================================
+
+The Software runs locally on Licensee's device. The Software does not
+upload Licensee's source files, target files, mapping profiles, or any
+processed data to any server. Network requests are limited to:
+
+  (a) license activation and validation against the official licensing
+      service;
+  (b) checking for software updates against the official release feed;
+  (c) optional anonymous usage telemetry, only if explicitly enabled by
+      the Licensee.
+
+================================================================================
+6. WARRANTY DISCLAIMER
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE,
+UNINTERRUPTED, OR SECURE, OR THAT IT WILL MEET LICENSEE'S REQUIREMENTS.
+
+================================================================================
+7. LIMITATION OF LIABILITY
+================================================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, REVENUE, DATA, OR
+USE, ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE
+SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES.
+
+LICENSOR'S TOTAL CUMULATIVE LIABILITY UNDER THIS AGREEMENT SHALL NOT
+EXCEED THE AMOUNT ACTUALLY PAID BY LICENSEE FOR THE LICENSE OF THE
+SOFTWARE GIVING RISE TO THE CLAIM.
+
+Mandatory statutory liability (e.g., under the German Product Liability
+Act / Produkthaftungsgesetz, or for intent and gross negligence) remains
+unaffected.
+
+================================================================================
+8. TERMINATION
+================================================================================
+
+This Agreement is effective until terminated. Licensor may terminate this
+Agreement immediately if Licensee breaches any provision. Upon
+termination, Licensee must cease all use of the Software and destroy all
+copies in their possession.
+
+================================================================================
+9. GOVERNING LAW & JURISDICTION
+================================================================================
+
+This Agreement shall be governed by and construed in accordance with the
+laws of the Federal Republic of Germany, excluding its conflict-of-law
+rules and excluding the United Nations Convention on Contracts for the
+International Sale of Goods (CISG).
+
+For consumers, mandatory consumer protection provisions of the consumer's
+country of habitual residence remain unaffected.
+
+For business customers (B2B), the exclusive place of jurisdiction for all
+disputes arising out of or in connection with this Agreement shall be
+the registered seat of the Licensor.
+
+================================================================================
+10. CONTACT
+================================================================================
+
+LUPZN
+Email:    info@lupzn.de
+Web:      https://lupzn.de
+Product:  https://easydatasync.lupzn.de
+
+================================================================================
+
+Last updated: 2026-05-02
